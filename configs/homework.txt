@@ -1,0 +1,3 @@
+browser="chrome";
+username="burhan";
+password=123;

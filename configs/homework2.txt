@@ -1,0 +1,6 @@
+#I am storing into a new file
+#Sun Aug 15 12:36:23 EET 2021
+password=123;
+browser="chrome";
+phonenumber=8732848723
+username="burhan";
